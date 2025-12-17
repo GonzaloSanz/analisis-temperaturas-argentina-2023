@@ -24,9 +24,9 @@ Este programa preguntará por una ciudad y un mes, para posteriormente mostrar u
 - Matplotlib (para gráficos).
 
 ## 📥 Cómo ejecutarlo
-1. Descarga el repositorio
-2. Instala las librerías (en terminal): pip install pandas matplotlib
-3. Ejecuta el script: python temperaturas.py
+1. Descargar el repositorio.
+2. Instalar las librerías (en terminal): pip install pandas matplotlib.
+3. Ejecutar el script: python temperaturas.py.
 
 ## 📸 Ejemplos de gráficos
 
