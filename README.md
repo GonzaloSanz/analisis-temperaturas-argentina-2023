@@ -28,5 +28,7 @@ Este programa preguntará por una ciudad y un mes, para posteriormente mostrar u
 2. Instala las librerías (en terminal): pip install pandas matplotlib
 3. Ejecuta el script: python temperaturas.py
 
-## 📸 Ejemplo de gráfico
+## 📸 Ejemplos de gráficos
 
+<img width="1200" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/361bc5fb-7c08-47a4-a2e4-0c58d4c9c891" />
+<img width="1200" height="600" alt="Figure_3" src="https://github.com/user-attachments/assets/93fa5618-d909-40b0-8c71-4998a46ed57d" />
